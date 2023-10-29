@@ -1,4 +1,4 @@
-## Hey 👋, This is Muhammad Jundy Rabbani
+## Hey 👋, This is Sahrul Firdaus
 [![Gmail Badge](https://img.shields.io/badge/-safier596@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:safier596@gmail.com)](mailto:safier596@gmail.com) 
 [![Github Badge](https://img.shields.io/badge/-SahrulFirdaus779-grey?style=flat&logo=github&logoColor=white&link=https://github.com/SahrulFirdaus779/)](https://www.github.com/SahrulFirdaus779/) 
 <p align='left'>I am an undergraduate student from Depok, Indonesia. I am looking for full time opportunities. I am currently working on a small project and do what I like, because if we like the work, we'd love to do it.</p>
