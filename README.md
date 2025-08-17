@@ -129,7 +129,7 @@ Passionate about **Data, Machine Learning, Data Analysis, Data Science, and Data
 
 ### 📫 Let's Connect
 <p align="center">
-I’m open to collaboration on data-driven projects or discussion about **Data Science, Machine Learning, and Data Analysis**.
+I’m open to collaboration on data-driven projects or discussion about <strong>Data Science, Machine Learning, and Data Analysis</strong>
 </p>
 <p align="center">
   <a href="https://www.linkedin.com/in/sahrul-firdaus">
